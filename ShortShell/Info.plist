@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSUserActivityTypes</key>
+	<array>
+		<string>ScriptRunner</string>
+		<string>ScriptRunnerIntent</string>
+		<string>SpawnerIntent</string>
+	</array>
+	<key>REVISION</key>
+	<string>shortshell</string>
+	<key>TSRootBinaries</key>
+	<array>
+		<string>ShortShellHelper</string>
+	</array>
+</dict>
+</plist>
